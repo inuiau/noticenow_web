@@ -2,7 +2,7 @@
     // DB Params
     define('DB_HOST', 'localhost');
     define('DB_USER', 'id6005533_notice_db');
-    define('DB_PASS', 'H@rdwar3');
+    define('DB_PASS', 'secret');
     define('DB_NAME', 'id6005533_notice');
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
