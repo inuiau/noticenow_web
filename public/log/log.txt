@@ -1,0 +1,39 @@
+===LOG PENGUMUMAN===
+76 new line BAAK 2018-10-31 14:30:28 Admin BAAK Status : UPDATE
+77 Pengumuman Baru BAAK 2018-10-31 14:31:53 Admin BAAK Status : ADD
+77 Pengumuman Baru BAAK 2018-10-31 14:32:17 Admin BAAK Status : UPDATE
+77 Pengumuman Baru BAAK 2018-10-31 14:32:17 Admin BAAK Status : DELETE
+76 new line BAAK 2018-10-31 14:30:28 Admin BAAK Status : DELETE
+75 test BAAK 2018-10-31 14:13:05 Admin BAAK Status : DELETE
+47 KURSUS BAHASA KOREA Prodi 2018-10-29 07:14:15 Admin Prodi Status : DELETE
+1 Daftar Nomor Induk Karyawan STIMATA Malang BAAK 2018-10-31 14:39:17 Admin BAAK Status : UPDATE
+2 DAFTAR DOSEN PEMBIMBING SKRIPSI / TPK BAAK 2018-10-31 15:05:31 Admin BAAK Status : UPDATE
+78 Tambah BAAK 2018-10-31 15:06:19 Admin BAAK Status : ADD
+78 Tambah BAAK 2018-10-31 22:09:23 Admin BAAK Status : UPDATE
+79 GOGOGOGGO BAAK 2018-10-31 22:12:38 Admin BAAK Status : ADD
+79 GOGOGOGGO BAAK 2018-10-31 22:12:38 Admin BAAK Status : DELETE
+78 Tambah BAAK 2018-10-31 22:09:23 Admin BAAK Status : DELETE
+80 Jadwal UTS Semester Gasal 2018/2019 BAAK 2018-10-31 22:18:30 Admin BAAK Status : ADD
+80 Jadwal UTS Semester Gasal 2018/2019 BAAK 2018-10-31 22:18:30 Admin BAAK Status : DELETE
+81 Test Terakhir Sebelum Sidang BAAK 2018-11-01 07:10:28 Admin BAAK Status : ADD
+81 Test Terakhir Sebelum Sidang BAAK 2018-11-01 07:10:28 Admin BAAK Status : DELETE
+82 Test Terakhir Sebelum Sidang BAAK 2018-11-01 07:11:47 Admin BAAK Status : ADD
+82 Test Terakhir Sebelum Sidang BAAK 2018-11-01 07:12:41 Admin BAAK Status : UPDATE
+82 Test Terakhir Sebelum Sidang BAAK 2018-11-01 07:12:41 Admin BAAK Status : DELETE
+83 Jadwal UTS Semester Gasal 2018/2019 BAAK 2018-11-01 08:14:47 Admin BAAK Status : ADD
+3 Jadwal UTS Genap 2017/2018 BAAK 2018-11-01 08:16:05 Admin BAAK Status : UPDATE
+84 Detail Pembayaran Semester BAUK 2018-11-01 10:10:27 Admin BAUK Status : ADD
+84 Detail Pembayaran Semester BAUK 2018-11-01 10:11:30 Admin BAUK Status : UPDATE
+85 Pengumuman Baru BAAK 2018-11-01 10:12:24 Admin BAAK Status : ADD
+85 Pengumuman Baru BAAK 2018-11-01 10:12:24 Admin BAAK Status : DELETE
+86 Test Pengumuman 1 BAAK 2018-11-04 14:49:04 Admin BAAK Status : ADD
+87 Test Pengumuman 2 BAAK 2018-11-04 14:52:26 Admin BAAK Status : ADD
+88 ini percobaan BAAK 2018-11-08 21:00:33 Admin BAAK Status : ADD
+89 sip BAAK 2018-11-09 12:34:32 Admin BAAK Status : ADD
+89 sip BAAK 2018-11-09 12:34:32 Admin BAAK Status : DELETE
+88 ini percobaan BAAK 2018-11-08 21:00:33 Admin BAAK Status : DELETE
+90 ggjjhjhklj;jlhlhgjlgjglggjg BAAK 2018-11-15 23:22:05 Admin BAAK Status : ADD
+91 Siap BAAK 2018-11-18 11:51:53 Admin BAAK Status : ADD
+92 ini judul BAAK 2018-11-26 21:27:36 Admin BAAK Status : ADD
+93 gfhgfugjh BAAK 2018-11-26 21:55:18 Admin BAAK Status : ADD
+92 ini judul BAAK 2018-12-03 21:58:49 Admin BAAK Status : UPDATE
